@@ -1,7 +1,6 @@
 package com.bootcoding.junit.array;
-import org.junit.Assert;
 import org.junit.Test;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 //Class containing test cases to check does ArraySum class logic is correct or not
 public class ArraySumTest {
     @Test
